@@ -1,0 +1,4 @@
+.env
+amazondb.db
+venv/
+__pycache__/

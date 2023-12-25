@@ -1,0 +1,10 @@
+chainlit==0.7.700
+langchain==0.0.350
+llama_index
+nest_asyncio==1.5.8
+pandas==2.1.4
+python-dotenv==1.0.0
+SQLAlchemy==2.0.23
+tiktoken==0.5.2
+pyodbc
+google-generativeai
